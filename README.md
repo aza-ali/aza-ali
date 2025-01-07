@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hello World👋! I'm Aza and I'm a Product Manager and an automation and robotics nerd and a former investment banker and management consultant.</h2>
+<h2 align="left">Hello World👋! I'm Aza and I love building products, automating everything and anything, nerding out over robotics, and applying what I learned as a former investment banker and management consultant.</h2>
 
 ###
 
