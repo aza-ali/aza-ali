@@ -1,7 +1,7 @@
-<a href="https://blendpixel.com"><img src="https://raw.githubusercontent.com/aza-ali/aza-ali/default/banner.svg?v=1" alt="Hi, I'm Aza — Product Manager and Builder" width="100%" /></a>
+<a href="https://blendpixel.com"><img src="https://raw.githubusercontent.com/aza-ali/aza-ali/default/banner.svg?v=2" alt="Hi, I'm Aza — Product Manager and Builder" width="100%" /></a>
 
 
-Product Manager and builder. I work at the AI/UX edge and like making one-person products feel like ten.
+I think about product strategy at the AI/UX edge and agentic workflows. I love building products that make each person feel like ten.
 
 ### Connect
 
