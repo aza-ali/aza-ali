@@ -12,7 +12,7 @@ I think about product strategy at the AI/UX edge and agentic workflows. And I lo
 
 ## Current Projects
 
-<p><a href="https://blendpixel.com/products/retina"><img src="https://raw.githubusercontent.com/aza-ali/aza-ali/default/text/retina-icon.svg?v=1" align="absmiddle" /><img src="https://raw.githubusercontent.com/aza-ali/aza-ali/default/text/retina.svg?v=2" align="absmiddle" alt="Retina" /></a> — Cinematic Mac screen recorder — auto-zoom, smooth cursor, 4K.</p>
+<p><a href="https://blendpixel.com/products/retina"><img src="https://raw.githubusercontent.com/aza-ali/aza-ali/default/text/retina-icon.svg?v=1" align="absmiddle" /><img src="https://raw.githubusercontent.com/aza-ali/aza-ali/default/text/retina.svg?v=2" align="absmiddle" alt="Retina" /></a> — Cinematic Mac screen recorder — auto-zoom, smooth cursor, 4K. <a href="https://www.producthunt.com/products/retina-2?launch=retina-2"><img src="https://img.shields.io/badge/Upvote_on_Product_Hunt-DA552F?style=flat-square&logo=producthunt&logoColor=white" align="absmiddle" alt="Upvote Retina on Product Hunt" /></a></p>
 
 <p><a href="https://chromewebstore.google.com/detail/ig-growth-auto-follow-aut/ialabgnikmojmnhoahngjiegigmfhghd"><img src="https://raw.githubusercontent.com/aza-ali/aza-ali/default/text/orbit-icon.svg?v=1" align="absmiddle" /><img src="https://raw.githubusercontent.com/aza-ali/aza-ali/default/text/orbit.svg?v=2" align="absmiddle" alt="Orbit" /></a> — Chrome extension for organic Instagram growth.</p>
 
