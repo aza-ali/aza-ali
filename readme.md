@@ -26,8 +26,6 @@ I think about product strategy at the AI/UX edge and agentic workflows. And I lo
 
 ## Past Work
 
-<p><a href="https://github.com/aza-ali/turbowebfetch"><img src="./text/turbowebfetch-icon.svg" align="absmiddle" /><img src="./text/turbowebfetch.svg" align="absmiddle" alt="TurboWebFetch" /></a> — Real-browser web fetching for AI agents — MCP server.</p>
-
 <p><a href="https://github.com/aza-ali/webdownloader"><img src="./text/webdownloader-icon.svg" align="absmiddle" /><img src="./text/webdownloader.svg" align="absmiddle" alt="WebDownloader" /></a> — Web pages → offline archive or Markdown, from your terminal.</p>
 
 <p><a href="https://github.com/aza-ali/speech-to-text-in-python"><img src="./text/local-speech-to-text-icon.svg" align="absmiddle" /><img src="./text/local-speech-to-text.svg" align="absmiddle" alt="Local Speech-to-Text" /></a> — Offline audio transcription with OpenAI's open-source Whisper, no API keys.</p>
