@@ -12,6 +12,8 @@ I think about product strategy at the AI/UX edge and agentic workflows. And I lo
 
 ## Current Projects
 
+<p><a href="https://blendpixel.com/products/soya"><img src="./text/soya-icon.svg" align="absmiddle" /><img src="./text/soya.svg" align="absmiddle" alt="Soya" /></a> — AI meeting notes for Mac — on-device, no bot in the call.</p>
+
 <p><a href="https://blendpixel.com/products/retina"><img src="./text/retina-icon.svg" align="absmiddle" /><img src="./text/retina.svg" align="absmiddle" alt="Retina" /></a> — Cinematic Mac screen recorder — auto-zoom, smooth cursor, 4K. <a href="https://www.producthunt.com/products/retina-2?launch=retina-2"><img src="./text/upvote-on-product-hunt.svg" align="absmiddle" alt="Upvote Retina on Product Hunt" /></a></p>
 
 <p><a href="https://chromewebstore.google.com/detail/ig-growth-auto-follow-aut/ialabgnikmojmnhoahngjiegigmfhghd"><img src="./text/orbit-icon.svg" align="absmiddle" /><img src="./text/orbit.svg" align="absmiddle" alt="Orbit" /></a> — Chrome extension for organic Instagram growth.</p>
