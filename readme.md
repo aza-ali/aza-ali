@@ -8,7 +8,7 @@ I think about product strategy at the AI/UX edge and agentic workflows. And I lo
 
 ## Let's Connect
 
-[![LinkedIn](./assets/linkedin.svg)](https://linkedin.com/in/aza-ali) [![X](./assets/x.svg)](https://x.com/AzaAli01) [![Threads](./assets/threads.svg)](https://www.threads.com/@aza.ali) [![Instagram](./assets/instagram.svg)](https://www.instagram.com/makecreatebuildshare/) [![mourtaza.com](./assets/mourtaza-com.svg)](https://mourtaza.com)
+[![LinkedIn](./assets/linkedin.svg)](https://linkedin.com/in/aza-ali) [![X](./assets/x.svg)](https://x.com/AzaAli01) [![Threads](./assets/threads.svg)](https://www.threads.com/@aza.ali) [![Instagram](./assets/instagram.svg)](https://www.instagram.com/makeshareteach/) [![mourtaza.com](./assets/mourtaza-com.svg)](https://mourtaza.com)
 
 ## Current Projects
 
