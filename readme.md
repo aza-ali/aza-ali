@@ -1,6 +1,6 @@
 # Hi, I'm Aza 👋
 
-<img src="./assets/lucide-map-pin.svg" align="absmiddle" /> San Francisco | <img src="./assets/lucide-bot.svg" align="absmiddle" /> Agent Swarm Builder
+<img src="./assets/lucide-map-pin.svg" align="absmiddle" /> San Francisco
 
 I think about product strategy at the AI/UX edge and agentic workflows. And I love building products that make each person feel like ten people.
 
